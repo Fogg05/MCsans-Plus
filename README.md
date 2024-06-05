@@ -12,7 +12,7 @@ Changed Chinese characters, English alphabets, Japanese, and commonly used symbo
 
 ### 用高清的MiSans字体替换了原版的像素风字体，包含中文汉字、英文字母、日语和常用符号。
 
-1. 和装载普通的材质包一样使用，装上就能呈现高清字体。😎
+⒈ 和装载普通的材质包一样使用，装上就能呈现高清字体。😎
 
 ⒉ 适配的游戏版本：≥ 1.20.0 😴
 
