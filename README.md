@@ -14,7 +14,9 @@ Changed Chinese characters, English alphabets, Japanese, and commonly used symbo
 
 ⒈ 和装载普通的材质包一样使用，装上就能呈现高清字体。😎
 
-⒉ 适配的游戏版本：≥ 1.20.0 😴
+⒉ 作品基于原版框架，不依赖任何前置mod，装上就能用。
+
+⒊ 适配的游戏版本：≥ 1.20.0 😴
 
 ### 如果喜欢 🥰 我的作品，🙏 请务必在网页右上角 ↗️ 给这个项目点颗星星 ⭐Star 感谢您的支持！！！🤩🤩🤩
 
